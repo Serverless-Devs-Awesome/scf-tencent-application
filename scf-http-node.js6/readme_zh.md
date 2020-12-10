@@ -1,6 +1,6 @@
-# 阿里云函数计算 Node.JS 6.10 HTTP 案例
+# 腾讯云函数计算 Node.JS 6.10 HTTP 案例
 
-只需几步就可以快速在阿里云函数计算服务上体验 Node.JS 6.10 HTTP ：
+只需几步就可以快速在腾讯云函数计算服务上体验 Node.JS 6.10 HTTP ：
 
 - 初始化项目：`s init node.js6.10-http -p alibaba`
 - 进入项目：`cd node.js6.10-http`

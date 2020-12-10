@@ -1,6 +1,6 @@
-# 阿里云函数计算 PHP 5.6 HTTP 案例
+# 腾讯云函数计算 PHP 5.6 HTTP 案例
 
-只需几步就可以快速在阿里云函数计算服务上体验 PHP 5.6 HTTP ：
+只需几步就可以快速在腾讯云函数计算服务上体验 PHP 5.6 HTTP ：
 
 - 初始化项目：`s init php5.6-http -p alibaba`
 - 进入项目：`cd php5.6-http`

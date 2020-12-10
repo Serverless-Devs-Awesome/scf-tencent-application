@@ -1,12 +1,12 @@
 Type: Application
 Name: php5.6
-Version: 0.0.4
+Version: 0.0.5
 Provider:
   - Tencent
 Description:
-  zh: 快速部署一个 PHP 5.6 的 Event 类型的 Hello World 函数到阿里云函数计算。
-  en: Quickly deploy a PHP 5.6 event type Hello world function to alicloud function calculation.
-HomePage: https://serverless.aliyun.com/
+  zh: 快速部署一个 PHP 5.6 的 Event 类型的 Hello World 函数到腾讯云函数计算。
+  en: Quickly deploy a PHP 5.6 event type Hello world function to Tencent Cloud function calculation.
+HomePage: https://www.qcloud.com/
 Tags:
   - zh: 函数计算
     en: Function calculation
